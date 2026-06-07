@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-Cors==3.0.10
+requests==2.32.0
+gunicorn==21.2.0
+yt-dlp>=2025.1.15
+python-dotenv==1.1.1
